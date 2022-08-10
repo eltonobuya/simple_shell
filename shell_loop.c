@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * without_comment - It deletes comments from the input
  *

@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * is_cdir - checks ":" if it is in the current directory.
  * @path: type char pointer char.

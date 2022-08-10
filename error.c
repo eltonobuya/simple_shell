@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * get_error - It calls error
  * @datash: Data structure with args

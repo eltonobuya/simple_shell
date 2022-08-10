@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * read_line -Reads the input string
  *

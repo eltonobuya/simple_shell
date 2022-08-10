@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * bring_line - It assigns line variable for get_line
  * @lineptr: Buffer with input str
